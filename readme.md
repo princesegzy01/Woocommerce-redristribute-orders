@@ -1,4 +1,4 @@
 ## ROUTE ORDER 
 
-- Wordpress plugin that extends woocomerce to manage orders redirected to another vendor in a multi vendor platform
+- Wordpress plugin that allow vendors to receive orders routed to them by the admin.
 
